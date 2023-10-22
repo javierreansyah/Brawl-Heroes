@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-A game 3 vs 3 turn base
+A PvE Turn Base Combat Game
 <br>
 2023
 </p>
