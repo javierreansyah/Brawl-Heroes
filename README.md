@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-A PvE Turn Base Combat Game
+A Player vs Computer Turn Base Combat Game
 <br>
 2023
 </p>
